@@ -1,1 +1,2 @@
 # GTrainingBot
+Authors: kurchavey, vyacheslav
